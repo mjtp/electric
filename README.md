@@ -9,5 +9,5 @@ Installation:
   
 Use:
   
-  electric <filename>
+  electric < filepath >
   
