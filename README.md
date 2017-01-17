@@ -1,5 +1,10 @@
   
 #Electric 
+
+Todo
+
+* Edit Settings
+* Find Supported Languages
   
 ###Goal:
 
