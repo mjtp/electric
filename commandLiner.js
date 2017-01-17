@@ -6,8 +6,7 @@ function lineMaker(mode, filename){
 	var line = null;
 	
 	if(mode.compiled === false){
-		//interpreted style; 1 command.
-		
+		//interpreted style; 1 command.	
 		var path = mode.path.replace(/\s/g, '');
 		
 		line = path + " " + filename;
