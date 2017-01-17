@@ -1,11 +1,11 @@
   
 #Electric 
   
-  ###Goal:
+###Goal:
 
   To quickly compile and/or run any file you want with one command. 
 
-  ###Installation:
+###Installation:
 
 ```sh
 $ git clone https://github.com/mjtp/electric.git
@@ -14,7 +14,7 @@ $ npm install -g
 $ npm link
 ```
   
-  ###Usage:
+###Usage:
 
 ```sh
 $ electric < filepath >
