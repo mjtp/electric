@@ -1,0 +1,23 @@
+{
+  "name": "electric",
+  "version": "1.0.0",
+  "description": "a command line tool that wants to be a polyglot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Torres",
+  "license": "ISC",
+  "bin": {
+    "electric": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cli-table": "^0.3.1",
+    "commander": "^2.9.0",
+    "csv": "^0.3.7",
+    "nodemon": "^1.11.0",
+    "progress": "^1.1.8",
+    "shelljs": "^0.7.5"
+  }
+}
